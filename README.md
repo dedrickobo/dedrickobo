@@ -9,13 +9,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dedrickobo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dedrickirl@gmail.com)
 
+<img width="400" src="assets/saber-alter.gif"/>
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-
-<img align="right" width="300" src="assets/saber-alter.gif"/>
 
 ```yaml
 name: Dedrick D.
@@ -36,8 +36,6 @@ open_to:
   - Cloud architecture discussions
   - Knowledge sharing
 ```
-
-<br clear="right"/>
 
 ---
 
