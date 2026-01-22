@@ -9,8 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dedrickobo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dedrickirl@gmail.com)
 
-<img width="350" src="assets/saber-alter.gif"/>
-<img width="350" src="assets/123.gif"/>
+<img width="400" src="assets/saber-alter.gif"/>
 
 </div>
 
@@ -113,7 +112,9 @@ open_to:
 
 <div align="center">
 
-### 💬 *"Infrastructure as code, automation as a mindset."*
+### 💬 *"Mediocrity is a sin."*
+
+<img width="400" src="assets/123.gif"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:2d0a0a,100:0d0d0d&height=120&section=footer"/>
 
