@@ -3,7 +3,7 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0969ff,100:00dcea&height=200&section=header&text=Dedrick%20D.&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20Architect%20|%20Automation%20Enthusiast&descAlignY=55&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00DCEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+reliable%2C+scalable%2C+and+efficient+systems;through+automation+and+modern+DevOps+practices+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00DCEA&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Automating+infrastructure+with+passion+%F0%9F%9A%80;Cloud+%7C+Containers+%7C+CI%2FCD+%7C+IaC)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dedrickobo.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dedrickobo)
@@ -115,16 +115,6 @@ open_to:
 
 [![DevOps Infrastructure](https://github-readme-stats.vercel.app/api/pin/?username=dedrickobo&repo=devops-infrastructure&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00dcea&icon_color=0969ff)](https://github.com/dedrickobo/devops-infrastructure)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=dedrickobo&repo=dedrickobo.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00dcea&icon_color=0969ff)](https://github.com/dedrickobo/dedrickobo.github.io)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/dedrickobo/dedrickobo/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
