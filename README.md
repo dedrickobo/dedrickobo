@@ -1,71 +1,120 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,0,0,2,2&height=1"/>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0969ff,100:00dcea&height=200&section=header&text=Dedrick%20D.&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20Architect%20|%20Automation%20Enthusiast&descAlignY=55&descSize=18"/>
 
-# Dedrick D.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00DCEA&center=true&vCenter=true&repeat=true&width=435&lines=DevOps+%E2%80%A2+Cloud+%E2%80%A2+Automation;Building+scalable+infrastructure)](https://git.io/typing-svg)
 
-**DevOps Engineer** · Indonesia
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-141414?style=flat-square&logo=github&logoColor=c41e3a)](https://dedrickobo.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-141414?style=flat-square&logo=linkedin&logoColor=c41e3a)](https://linkedin.com/in/dedrickobo)
-[![Email](https://img.shields.io/badge/Email-141414?style=flat-square&logo=gmail&logoColor=c41e3a)](mailto:dedrickirl@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dedrickobo.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dedrickobo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dedrickirl@gmail.com)
 
 </div>
 
 ---
 
-### About
+## 👨‍💻 About Me
 
 ```yaml
-role: DevOps Engineer @ OneByOne
-focus: Cloud Infrastructure, Automation, CI/CD
-education: B.Sc Computer Science (GPA 3.91)
+name: Dedrick D.
+located_in: Batam, Indonesia
+current_role: DevOps Engineer @ OneByOne
+education:
+  degree: Bachelor of Computer Science (S.Kom)
+  institution: Universitas Internasional Batam
+  gpa: 3.91
+
+currently_working_on:
+  - Cloud infrastructure automation
+  - CI/CD pipeline optimization
+  - Container orchestration
+
+open_to:
+  - Collaboration on DevOps projects
+  - Cloud architecture discussions
+  - Knowledge sharing
 ```
 
 ---
 
-### Certifications
-
-| Certification | Issuer |
-|:---|:---:|
-| AWS Solutions Architect – Associate | Amazon Web Services |
-| Azure Fundamentals | Microsoft |
-| Red Hat Certified System Administrator | Red Hat |
-| Cisco Certified Network Associate | Cisco |
-| MikroTik Certified Network Associate | MikroTik |
-
----
-
-### Tech Stack
+## 🏅 Certifications
 
 <div align="center">
 
-**Cloud**
+| Certification | Issuer |
+|:-------------:|:------:|
+| 🟠 **AWS Solutions Architect – Associate** | Amazon Web Services |
+| 🔵 **Azure Fundamentals** | Microsoft |
+| 🔴 **Red Hat Certified System Administrator (RHCSA)** | Red Hat |
+| 🟢 **Cisco Certified Network Associate (CCNA)** | Cisco |
+| ⚪ **MikroTik Certified Network Associate (MTCNA)** | MikroTik |
 
-![AWS](https://img.shields.io/badge/AWS-141414?style=flat-square&logo=amazonwebservices&logoColor=c41e3a)
-![Azure](https://img.shields.io/badge/Azure-141414?style=flat-square&logo=microsoftazure&logoColor=c41e3a)
-![GCP](https://img.shields.io/badge/GCP-141414?style=flat-square&logo=googlecloud&logoColor=c41e3a)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-141414?style=flat-square&logo=digitalocean&logoColor=c41e3a)
+</div>
 
-**Infrastructure & Automation**
+---
 
-![Terraform](https://img.shields.io/badge/Terraform-141414?style=flat-square&logo=terraform&logoColor=c41e3a)
-![Ansible](https://img.shields.io/badge/Ansible-141414?style=flat-square&logo=ansible&logoColor=c41e3a)
-![Docker](https://img.shields.io/badge/Docker-141414?style=flat-square&logo=docker&logoColor=c41e3a)
-![Podman](https://img.shields.io/badge/Podman-141414?style=flat-square&logo=podman&logoColor=c41e3a)
+## 🛠️ Tech Stack
 
-**CI/CD & Monitoring**
+<div align="center">
 
-![GitHub Actions](https://img.shields.io/badge/Actions-141414?style=flat-square&logo=githubactions&logoColor=c41e3a)
-![Jenkins](https://img.shields.io/badge/Jenkins-141414?style=flat-square&logo=jenkins&logoColor=c41e3a)
-![Grafana](https://img.shields.io/badge/Grafana-141414?style=flat-square&logo=grafana&logoColor=c41e3a)
-![Prometheus](https://img.shields.io/badge/Prometheus-141414?style=flat-square&logo=prometheus&logoColor=c41e3a)
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
-**Systems & Networking**
+### 🔧 Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-141414?style=flat-square&logo=linux&logoColor=c41e3a)
-![RHEL](https://img.shields.io/badge/RHEL-141414?style=flat-square&logo=redhat&logoColor=c41e3a)
-![Cisco](https://img.shields.io/badge/Cisco-141414?style=flat-square&logo=cisco&logoColor=c41e3a)
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+
+### 🔄 CI/CD & Version Control
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white)
+
+### 💻 Systems & OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### 🌐 Networking
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dedrickobo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00dcea&icon_color=0969ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dedrickobo&theme=tokyonight&hide_border=true&background=0D1117&stroke=00dcea&ring=0969ff&fire=00dcea&currStreakLabel=00dcea"/>
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![DevOps Infrastructure](https://github-readme-stats.vercel.app/api/pin/?username=dedrickobo&repo=devops-infrastructure&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00dcea&icon_color=0969ff)](https://github.com/dedrickobo/devops-infrastructure)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=dedrickobo&repo=dedrickobo.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00dcea&icon_color=0969ff)](https://github.com/dedrickobo/dedrickobo.github.io)
 
 </div>
 
@@ -73,6 +122,8 @@ education: B.Sc Computer Science (GPA 3.91)
 
 <div align="center">
 
-*Building reliable infrastructure through automation.*
+### 💬 *"Infrastructure as code, automation as a mindset."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0969ff,100:00dcea&height=120&section=footer"/>
 
 </div>
