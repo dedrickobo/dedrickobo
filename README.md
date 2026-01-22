@@ -6,10 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&repeat=true&width=435&lines=DevOps+%E2%80%A2+Cloud+%E2%80%A2+Automation;Building+scalable+infrastructure)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dedrickobo.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dedrickobo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dedrickk/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dedrickirl@gmail.com)
-
-<img width="400" src="assets/saber-alter.gif"/>
 
 </div>
 
@@ -114,7 +112,8 @@ open_to:
 
 ### 💬 *"Mediocrity is a sin."*
 
-<img width="400" src="assets/123.gif"/>
+<img width="350" src="assets/saber-alter.gif"/>
+<img width="350" src="assets/123.gif"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:2d0a0a,100:0d0d0d&height=120&section=footer"/>
 
