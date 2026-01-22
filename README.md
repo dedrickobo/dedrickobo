@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://media.tenor.com/bBlF4AAAAAM/saber-alter-fate-heavens-feel.gif"/>
+<img align="right" width="300" src="https://media1.tenor.com/m/GLMZKhWbgEgAAAAC/saber-alter-fate-heavens-feel.gif"/>
 
 ```yaml
 name: Dedrick D.
