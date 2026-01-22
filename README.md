@@ -15,6 +15,8 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" width="300" src="https://media.tenor.com/bBlF4AAAAAM/saber-alter-fate-heavens-feel.gif"/>
+
 ```yaml
 name: Dedrick D.
 located_in: Batam, Indonesia
@@ -34,6 +36,8 @@ open_to:
   - Cloud architecture discussions
   - Knowledge sharing
 ```
+
+<br clear="right"/>
 
 ---
 
