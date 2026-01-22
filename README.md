@@ -98,23 +98,11 @@ open_to:
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dedrickobo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00dcea&icon_color=0969ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dedrickobo&theme=tokyonight&hide_border=true&background=0D1117&stroke=00dcea&ring=0969ff&fire=00dcea&currStreakLabel=00dcea"/>
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-[![DevOps Infrastructure](https://github-readme-stats.vercel.app/api/pin/?username=dedrickobo&repo=devops-infrastructure&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00dcea&icon_color=0969ff)](https://github.com/dedrickobo/devops-infrastructure)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=dedrickobo&repo=dedrickobo.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00dcea&icon_color=0969ff)](https://github.com/dedrickobo/dedrickobo.github.io)
+![Snake animation](https://raw.githubusercontent.com/dedrickobo/dedrickobo/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
